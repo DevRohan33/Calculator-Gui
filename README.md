@@ -37,16 +37,13 @@ The `calculator.py` script contains the following key components:
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/DevRohan33/Codsoft.git
+    git clone https://github.com/DevRohan33/Calculator-Gui.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd Codsoft
+    cd Calculator-Gui
     ```
-3. Run the  `To-Do-List.py` or `calculator.py`  script:
-    ```bash
-    python To-Do-List.py
-    ```
+3. Run the  `calculator.py`  script:
     ```bash
     python calculator.py
     ```
